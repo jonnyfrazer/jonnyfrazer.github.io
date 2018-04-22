@@ -13,7 +13,7 @@ To see my publication record please check out [my INSPIRE profile](http://inspir
 ## Software
 
 **The Transport Method:**
-The transport method is a technique for computing the correlation functions of fluctuations generated in an inflationary epoch during the early universe. Our site [transportmethod.com](https://transportmethod.com/) collects a number of tools written in Mathematica, C++ and Python.
+The transport method is a technique for computing the two-point and three-point correlation functions of fluctuations generated in an inflationary epoch during the early universe. Our site [transportmethod.com](https://transportmethod.com/) collects a number of tools written in Mathematica, C++ and Python.
 
 **MULTIMODECODE:**
 MultiModeCode is a Fortran 95/2000 package for the numerical exploration of multifield inflation models, available from [modecode.org](http://modecode.org/).
