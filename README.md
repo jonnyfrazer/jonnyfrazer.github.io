@@ -7,3 +7,7 @@ I'm a postdoctoral researcher in the [DESY Theory Group](https://theory-hamburg.
 **Biology**
 
 In recent years it has been realised that the way in which the genome folds inside the cell nucleus (in humans, roughly two metres of DNA folds into a ten micron nucleus) plays an important role in gene expression programs and cell identity. It is also known that misfolding can give rise to disease. However, beyond this, very little is understood. Little is known about the mechanisms which enable this folding process, nor is  it understood _how_ the folding of the genome influences gene expression. My current work in collaboration with the [Marks Lab](https://marks.hms.harvard.edu/) in Harvard Medical School, seeks to address the latter question.
+
+## Publications
+
+To see my publication record please check out [my INSPIRE profile](http://inspirehep.net/author/profile/J.Frazer.1) or my [Google Scholar profile](https://scholar.google.de/citations?user=_QGoqgoAAAAJ&hl=en)
