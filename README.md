@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/jonnyfrazer/jonnyfrazer.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Cosmology and String Theory**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a postdoctoral researcher in the [DESY Theory Group](https://theory-hamburg.desy.de/). Most of my work to date has been on inflation, a theory of the very early universe where the quantum fluctuations of one or more scalar fields give rise to density perturbations which seed the formation of all structure we observe today. In my view, the most exciting consequence of this is that we can use the statistics of the distribution of matter in the universe to learn about particle physics at extremely high energies. Possibly much higher than we will ever be able to probe with terrestrial experiments. Indeed, cosmology may be one of our best hopes for testing string theory. As such, I try to sit between the string theory and cosmology communities, developing methods for computing predictions from string theory embeddings of inflation.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonnyfrazer/jonnyfrazer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
