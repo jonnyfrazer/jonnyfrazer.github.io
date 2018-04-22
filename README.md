@@ -6,4 +6,4 @@ I'm a postdoctoral researcher in the [DESY Theory Group](https://theory-hamburg.
 
 **Biology**
 
-More recently I have become extremely interested in biology. In recent years it has been realised that the way in which the genome folds inside the cell nucleus (in humans, roughly two metres of DNA folds into a ten micron nucleus $\mu$) plays an important role in gene expression programs and cell identity and misfolding of the genome can result in disease.
+In recent years it has been realised that the way in which the genome folds inside the cell nucleus (in humans, roughly two metres of DNA folds into a ten micron nucleus) plays an important role in gene expression programs and cell identity. It is also known that misfolding can give rise to disease. However, beyond this, very little is understood. Little is known about the mechanisms which enable this folding process, nor is  it understood _how_ the folding of the genome influences gene expression. My current work in collaboration with the [Marks Lab](https://marks.hms.harvard.edu/) in Harvard Medical School, seeks to address the latter question.
