@@ -24,4 +24,4 @@ MultiModeCode is a Fortran 95/2000 package for the numerical exploration of mult
 
 ## Talks
 
-I am trying to get into the habit of posting my slides from previous presentations on GitHub's Speaker Deck. My "Decks" can be found [here](https://speakerdeck.com/jonnygfrazer)
+I am trying to get into the habit of posting my slides from previous presentations on GitHub's Speaker Deck. My "Decks" can be found [here](https://speakerdeck.com/jonnygfrazer).
