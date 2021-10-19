@@ -14,7 +14,7 @@ To see my publication record please check out my [Google Scholar profile](https:
 ## Software and Data
 
 **EVE predictions**
-Predictions for the clinicial significance of 36 million variants across 3,219 disease genes, using variational autoencoders trained on protein sequences from diverse organisms [https://evemodel.org](https://evemodel.org).
+Predictions for the clinicial significance of 36 million variants across 3,219 disease genes, using variational autoencoders trained on protein sequences from diverse organisms [evemodel.org](https://evemodel.org).
 
 **EVE code**
 [Code repository](https://github.com/OATML-Markslab/EVE) for the paper "Large-scale clinical interpretation of genetic variants using evolutionary data and deep learning".
